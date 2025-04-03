@@ -1,2 +1,9 @@
 # Fitness Buddy Chatbot 💪
-A simple Python chatbot for workout recommendations.
+By Harsh Desai
+A Python chatbot that recommends workouts based on muscle groups.
+
+# To Run
+1. install [Python](https://www.python.org/downloads/)
+2. Download `fitness_bot.py`
+3. Run in terminal:
+   python fitness_bot.py
